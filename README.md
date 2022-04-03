@@ -1,4 +1,6 @@
 # Selenium - E-Commerce Automation using Eclipse 
+- This is a simple Selenium WebDriver code in Java with TestNG annotations to do some functional testing
+
 #### **Configuration**
 
  1. Download Selenium client & Web driver Language Bindings for java [www.seleniumhq.org/download/]
